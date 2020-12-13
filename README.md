@@ -1,7 +1,15 @@
-### Hi there 👋
+### Hewwo UwU
+
+
+<a href="https://github.com/Exynos-nigg">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Exynos-nigg&show_icons=true&theme=nord&include_all_commits=true)](https://github.com/Exynos-nigg" />
+</a>
+<a href="https://github.com/Exynos-nigg">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exynos-nigg&langs_count=14&theme=nord&layout=compact" />
+</a>
 
 <!--
-**Exynos-nigg/Exynos-nigg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**00p513-dev/00p513-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,5 +20,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ..
 -->
